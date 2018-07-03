@@ -7,6 +7,8 @@ attachments :
 ---
 ## A really bad movie
 
+fdsa
+
 ```yaml
 type: MultipleChoiceExercise
 lang: r
@@ -57,7 +59,7 @@ xp: 100
 skills: 1
 key: 17e4ab336c
 ```
-fdsaf
+
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
 
 A dataset with a selection of movies, `movie_selection`, is available in the workspace.
