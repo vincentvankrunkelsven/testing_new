@@ -1,25 +1,26 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
-attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
-
+title: 'Insert the chapter title here'
+description: 'Insert the chapter description here'
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf'
 ---
-## A really bad movie
 
-fdsa
+## A really bad movie
 
 ```yaml
 type: MultipleChoiceExercise
+key: 42c94f148d
 lang: r
 xp: 50
 skills: 1
-key: 42c94f148d
 ```
+
+fdsa
+
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
-`@instructions`
+`@possible_answers`
 - Adventure
 - Action
 - Animation
@@ -50,14 +51,15 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 ```
 
 ---
+
 ## More movies
 
 ```yaml
 type: NormalExercise
+key: 17e4ab336c
 lang: r
 xp: 100
 skills: 1
-key: 17e4ab336c
 ```
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!

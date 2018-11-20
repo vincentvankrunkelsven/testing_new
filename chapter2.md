@@ -1,19 +1,14 @@
 ---
 title: Test
-description: >-
-  This is a chapter
-
-
-
+description: 'This is a chapter'
 ---
+
 ## Just an exercise
 
 ```yaml
 type: NormalExercise
-
-xp: 
-
 key: 7db97d2e56
+xp: 100
 ```
 
 One two th
@@ -24,9 +19,22 @@ One two th
 `@hint`
 
 
+`@pre_exercise_code`
+```{r}
 
+```
 
+`@sample_code`
+```{r}
 
+```
 
+`@solution`
+```{r}
 
+```
 
+`@sct`
+```{r}
+
+```
